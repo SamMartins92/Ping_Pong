@@ -1,0 +1,12 @@
+<linker>
+<assembly fullname="Assembly-CSharp">
+<type fullname="Ball" preserve="all"/>
+<type fullname="EXIT" preserve="all"/>
+<type fullname="Enemy" preserve="all"/>
+<type fullname="MenuBall" preserve="all"/>
+<type fullname="NewGame" preserve="all"/>
+<type fullname="Paddle" preserve="all"/>
+<type fullname="Score" preserve="all"/>
+<type fullname="Spawner" preserve="all"/>
+</assembly>
+</linker>
